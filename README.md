@@ -24,4 +24,5 @@
 <h3> Some Analysis: </h3>
 <ul>
   <li> Distribution of data points among output classes. </li>
+  <img src="img1.png"></img>
   
